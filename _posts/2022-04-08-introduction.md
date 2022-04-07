@@ -1,10 +1,15 @@
 ---
-title: Why Jekyll with GitBook
+title: 게임크리에이터
 author: Tao He
-date: 2019-04-27
-category: Jekyll
+date: 2022-04-08
+category: Jaydy
 layout: post
 ---
+
+유니티-게임크리에이터 조합을 이용해서 VR 컨덴츠를 쉽게 만들 수 있다. 앞으로는 디자이너의 시대가 올 것이다. 
+내가 무언가를 새롭게 창조해낸다는 것이 중요하다.
+
+유니티는 [이곳][2]에서 다운받을 수 있다.
 
 GitBook is an amazing frontend style to present and organize contents (such as book chapters
 and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
@@ -18,3 +23,4 @@ to [Github Pages][1] without generating and uploading HTML bundle every time whe
 changes to the original repository.
 
 [1]: https://pages.github.com
+[2]: https://jdya.net
